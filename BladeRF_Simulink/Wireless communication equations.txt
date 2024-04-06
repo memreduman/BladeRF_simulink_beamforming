@@ -1,0 +1,13 @@
+Frame Time = Frame Size / Data Rate
+Data Rate = Modulation Scheme * Bandwidth
+QPSK = 2bits per symbol
+
+Nyquist Theorem:
+Bandwidth = Sample Rate/2
+Bandwidth = Data Rate / (1 + α)
+α = 0.5 for QPSK
+
+1.6MHz / 2 = 800kHz Data rate of signal
+
+
+

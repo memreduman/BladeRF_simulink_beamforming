@@ -1,0 +1,3 @@
+qpsktxrx.TotalFrame * qpsktxrx.FrameTime
+
+1133 + preamble length
